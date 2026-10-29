@@ -1,0 +1,32 @@
+name: Mise à jour du calendrier earnings
+
+on:
+  schedule:
+    - cron: "17 5 * * *"   # tous les jours vers 6h17 (heure de Monaco en hiver)
+  workflow_dispatch:        # lancement manuel possible depuis l'onglet Actions
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Générer earnings.ics
+        env:
+          FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
+        run: python generate_ics.py
+
+      - name: Publier si changement
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add docs/earnings.ics
+          git diff --cached --quiet || git commit -m "Mise à jour earnings.ics"
+          git push
