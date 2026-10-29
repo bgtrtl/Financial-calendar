@@ -1,0 +1,8 @@
+# Un ticker par ligne (format Finnhub). Les lignes commençant par # sont ignorées.
+AAPL
+MSFT
+NVDA
+AMZN
+GOOGL
+META
+JPM
