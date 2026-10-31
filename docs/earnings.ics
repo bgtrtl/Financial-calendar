@@ -6,213 +6,268 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings – ma watchlist
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
+UID:JPM-2026-Q3@earnings-ics
+DTSTAMP:20261031T090903Z
+LAST-MODIFIED:20261031T090903Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:✅ JPM T3 2026 – BPA manqué -6.5 % · CA manqué -1.6 %
+DESCRIPTION:COMPTE RENDU – JPM T3 2026\nPublié avant l'ouverture le 13/1
+ 0/2026\n\nBPA : 5.57 publié vs 5.96 estimé → surprise -6.5 % (manqué)
+ \nCA : 50.91 Md publié vs 51.73 Md estimé → surprise -1.6 % (manqué)\
+ n\nCommuniqué (8-K SEC) : https://www.sec.gov/cgi-bin/browse-edgar?action
+ =getcompany&CIK=JPM&type=8-K&dateb=&owner=include&count=10
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:META-2026-Q3@earnings-ics
-DTSTAMP:20261031T054626Z
+DTSTAMP:20261031T090903Z
+LAST-MODIFIED:20261031T090903Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
-SUMMARY:META – résultats T3 2026 (après la clôture)
-DESCRIPTION:Société : META\nPériode : T3 2026\nMoment : après la clôtu
- re\nBPA estimé : 5.79\nCA estimé : 64.64 Md\nBPA publié : 7.40\nCA publ
- ié : 64.60 Md\nHoraire exact du call : voir la page Investor Relations.
+SUMMARY:✅ META T3 2026 – BPA battu +27.8 % · CA en ligne -0.1 %
+DESCRIPTION:COMPTE RENDU – META T3 2026\nPublié après la clôture le 21
+ /10/2026\n\nBPA : 7.40 publié vs 5.79 estimé → surprise +27.8 % (battu
+ )\nCA : 64.60 Md publié vs 64.64 Md estimé → surprise -0.1 % (en ligne
+ )\n\nCommuniqué (8-K SEC) : https://www.sec.gov/cgi-bin/browse-edgar?acti
+ on=getcompany&CIK=META&type=8-K&dateb=&owner=include&count=10
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:GOOGL-2026-Q3@earnings-ics
-DTSTAMP:20261031T054626Z
+DTSTAMP:20261031T090903Z
+LAST-MODIFIED:20261031T090903Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-SUMMARY:GOOGL – résultats T3 2026 (après la clôture)
-DESCRIPTION:Société : GOOGL\nPériode : T3 2026\nMoment : après la clôt
- ure\nBPA estimé : 3.11\nCA estimé : 132.02 Md\nBPA publié : 2.12\nCA pu
- blié : 111.21 Md\nHoraire exact du call : voir la page Investor Relations
- .
+SUMMARY:✅ GOOGL T3 2026 – BPA manqué -31.8 % · CA manqué -15.8 %
+DESCRIPTION:COMPTE RENDU – GOOGL T3 2026\nPublié après la clôture le 2
+ 8/10/2026\n\nBPA : 2.12 publié vs 3.11 estimé → surprise -31.8 % (manq
+ ué)\nCA : 111.21 Md publié vs 132.02 Md estimé → surprise -15.8 % (ma
+ nqué)\n\nCommuniqué (8-K SEC) : https://www.sec.gov/cgi-bin/browse-edgar
+ ?action=getcompany&CIK=GOOGL&type=8-K&dateb=&owner=include&count=10
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:MSFT-2027-Q1@earnings-ics
-DTSTAMP:20261031T054626Z
+DTSTAMP:20261031T090903Z
+LAST-MODIFIED:20261031T090903Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-SUMMARY:MSFT – résultats T1 2027 (après la clôture)
-DESCRIPTION:Société : MSFT\nPériode : T1 2027\nMoment : après la clôtu
- re\nBPA estimé : 4.82\nCA estimé : 92.49 Md\nBPA publié : 4.89\nCA publ
- ié : 92.28 Md\nHoraire exact du call : voir la page Investor Relations.
+SUMMARY:✅ MSFT T1 2027 – BPA battu +1.5 % · CA en ligne -0.2 %
+DESCRIPTION:COMPTE RENDU – MSFT T1 2027\nPublié après la clôture le 28
+ /10/2026\n\nBPA : 4.89 publié vs 4.82 estimé → surprise +1.5 % (battu)
+ \nCA : 92.28 Md publié vs 92.49 Md estimé → surprise -0.2 % (en ligne)
+ \n\nCommuniqué (8-K SEC) : https://www.sec.gov/cgi-bin/browse-edgar?actio
+ n=getcompany&CIK=MSFT&type=8-K&dateb=&owner=include&count=10
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:AMZN-2026-Q3@earnings-ics
-DTSTAMP:20261031T054626Z
+DTSTAMP:20261031T090903Z
+LAST-MODIFIED:20261031T090903Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-SUMMARY:AMZN – résultats T3 2026 (après la clôture)
-DESCRIPTION:Société : AMZN\nPériode : T3 2026\nMoment : après la clôtu
- re\nBPA estimé : 2.00\nCA estimé : 206.29 Md\nBPA publié : 1.89\nCA pub
- lié : 201.94 Md\nHoraire exact du call : voir la page Investor Relations.
+SUMMARY:✅ AMZN T3 2026 – BPA manqué -5.5 % · CA manqué -2.1 %
+DESCRIPTION:COMPTE RENDU – AMZN T3 2026\nPublié après la clôture le 29
+ /10/2026\n\nBPA : 1.89 publié vs 2.00 estimé → surprise -5.5 % (manqu
+ é)\nCA : 201.94 Md publié vs 206.29 Md estimé → surprise -2.1 % (manq
+ ué)\n\nCommuniqué (8-K SEC) : https://www.sec.gov/cgi-bin/browse-edgar?a
+ ction=getcompany&CIK=AMZN&type=8-K&dateb=&owner=include&count=10
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:AAPL-2026-Q4@earnings-ics
-DTSTAMP:20261031T054626Z
+DTSTAMP:20261031T090903Z
+LAST-MODIFIED:20261031T090903Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:AAPL – résultats T4 2026 (après la clôture)
 DESCRIPTION:Société : AAPL\nPériode : T4 2026\nMoment : après la clôtu
  re\nBPA estimé : 2.02\nCA estimé : 115.50 Md\nHoraire exact du call : vo
- ir la page Investor Relations.
+ ir la page Investor Relations.\nLe compte rendu chiffré s'ajoutera ici ap
+ rès la publication.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:NVDA-2027-Q3@earnings-ics
-DTSTAMP:20261031T054626Z
+DTSTAMP:20261031T090903Z
+LAST-MODIFIED:20261031T090903Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:NVDA – résultats T3 2027 (après la clôture)
 DESCRIPTION:Société : NVDA\nPériode : T3 2027\nMoment : après la clôtu
  re\nBPA estimé : 2.53\nCA estimé : 111.36 Md\nHoraire exact du call : vo
- ir la page Investor Relations.
+ ir la page Investor Relations.\nLe compte rendu chiffré s'ajoutera ici ap
+ rès la publication.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:JPM-2026-Q4@earnings-ics
-DTSTAMP:20261031T054626Z
+DTSTAMP:20261031T090903Z
+LAST-MODIFIED:20261031T090903Z
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270115
 SUMMARY:JPM – résultats T4 2026 (après la clôture)
 DESCRIPTION:Société : JPM\nPériode : T4 2026\nMoment : après la clôtur
  e\nBPA estimé : 5.92\nCA estimé : 51.79 Md\nHoraire exact du call : voir
-  la page Investor Relations.
+  la page Investor Relations.\nLe compte rendu chiffré s'ajoutera ici apr
+ ès la publication.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:META-2026-Q4@earnings-ics
-DTSTAMP:20261031T054626Z
+DTSTAMP:20261031T090903Z
+LAST-MODIFIED:20261031T090903Z
 DTSTART;VALUE=DATE:20270126
 DTEND;VALUE=DATE:20270127
 SUMMARY:META – résultats T4 2026 (après la clôture)
 DESCRIPTION:Société : META\nPériode : T4 2026\nMoment : après la clôtu
  re\nBPA estimé : 8.52\nCA estimé : 76.05 Md\nHoraire exact du call : voi
- r la page Investor Relations.
+ r la page Investor Relations.\nLe compte rendu chiffré s'ajoutera ici apr
+ ès la publication.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:MSFT-2027-Q2@earnings-ics
-DTSTAMP:20261031T054626Z
+DTSTAMP:20261031T090903Z
+LAST-MODIFIED:20261031T090903Z
 DTSTART;VALUE=DATE:20270126
 DTEND;VALUE=DATE:20270127
 SUMMARY:MSFT – résultats T2 2027 (horaire non précisé)
 DESCRIPTION:Société : MSFT\nPériode : T2 2027\nMoment : horaire non pré
  cisé\nBPA estimé : 4.94\nCA estimé : 97.51 Md\nHoraire exact du call : 
- voir la page Investor Relations.
+ voir la page Investor Relations.\nLe compte rendu chiffré s'ajoutera ici 
+ après la publication.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:AAPL-2027-Q1@earnings-ics
-DTSTAMP:20261031T054626Z
+DTSTAMP:20261031T090903Z
+LAST-MODIFIED:20261031T090903Z
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
 SUMMARY:AAPL – résultats T1 2027 (horaire non précisé)
 DESCRIPTION:Société : AAPL\nPériode : T1 2027\nMoment : horaire non pré
  cisé\nBPA estimé : 2.95\nCA estimé : 155.96 Md\nHoraire exact du call :
-  voir la page Investor Relations.
+  voir la page Investor Relations.\nLe compte rendu chiffré s'ajoutera ici
+  après la publication.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:GOOGL-2026-Q4@earnings-ics
-DTSTAMP:20261031T054626Z
+DTSTAMP:20261031T090903Z
+LAST-MODIFIED:20261031T090903Z
 DTSTART;VALUE=DATE:20270202
 DTEND;VALUE=DATE:20270203
 SUMMARY:GOOGL – résultats T4 2026 (après la clôture)
 DESCRIPTION:Société : GOOGL\nPériode : T4 2026\nMoment : après la clôt
  ure\nBPA estimé : 3.46\nCA estimé : 147.32 Md\nHoraire exact du call : v
- oir la page Investor Relations.
+ oir la page Investor Relations.\nLe compte rendu chiffré s'ajoutera ici a
+ près la publication.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:AMZN-2026-Q4@earnings-ics
-DTSTAMP:20261031T054626Z
+DTSTAMP:20261031T090903Z
+LAST-MODIFIED:20261031T090903Z
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270204
 SUMMARY:AMZN – résultats T4 2026 (après la clôture)
 DESCRIPTION:Société : AMZN\nPériode : T4 2026\nMoment : après la clôtu
  re\nBPA estimé : 2.50\nCA estimé : 249.46 Md\nHoraire exact du call : vo
- ir la page Investor Relations.
+ ir la page Investor Relations.\nLe compte rendu chiffré s'ajoutera ici ap
+ rès la publication.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:NVDA-2027-Q4@earnings-ics
-DTSTAMP:20261031T054626Z
+DTSTAMP:20261031T090903Z
+LAST-MODIFIED:20261031T090903Z
 DTSTART;VALUE=DATE:20270223
 DTEND;VALUE=DATE:20270224
 SUMMARY:NVDA – résultats T4 2027 (après la clôture)
 DESCRIPTION:Société : NVDA\nPériode : T4 2027\nMoment : après la clôtu
  re\nBPA estimé : 2.80\nCA estimé : 127.44 Md\nHoraire exact du call : vo
- ir la page Investor Relations.
+ ir la page Investor Relations.\nLe compte rendu chiffré s'ajoutera ici ap
+ rès la publication.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:JPM-2027-Q1@earnings-ics
-DTSTAMP:20261031T054626Z
+DTSTAMP:20261031T090903Z
+LAST-MODIFIED:20261031T090903Z
 DTSTART;VALUE=DATE:20270412
 DTEND;VALUE=DATE:20270413
 SUMMARY:JPM – résultats T1 2027 (horaire non précisé)
 DESCRIPTION:Société : JPM\nPériode : T1 2027\nMoment : horaire non préc
  isé\nBPA estimé : 6.32\nCA estimé : 54.35 Md\nHoraire exact du call : v
- oir la page Investor Relations.
+ oir la page Investor Relations.\nLe compte rendu chiffré s'ajoutera ici a
+ près la publication.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:AMZN-2027-Q1@earnings-ics
-DTSTAMP:20261031T054626Z
+DTSTAMP:20261031T090903Z
+LAST-MODIFIED:20261031T090903Z
 DTSTART;VALUE=DATE:20270427
 DTEND;VALUE=DATE:20270428
 SUMMARY:AMZN – résultats T1 2027 (horaire non précisé)
 DESCRIPTION:Société : AMZN\nPériode : T1 2027\nMoment : horaire non pré
  cisé\nBPA estimé : 2.38\nCA estimé : 212.20 Md\nHoraire exact du call :
-  voir la page Investor Relations.
+  voir la page Investor Relations.\nLe compte rendu chiffré s'ajoutera ici
+  après la publication.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:GOOGL-2027-Q1@earnings-ics
-DTSTAMP:20261031T054626Z
+DTSTAMP:20261031T090903Z
+LAST-MODIFIED:20261031T090903Z
 DTSTART;VALUE=DATE:20270427
 DTEND;VALUE=DATE:20270428
 SUMMARY:GOOGL – résultats T1 2027 (horaire non précisé)
 DESCRIPTION:Société : GOOGL\nPériode : T1 2027\nMoment : horaire non pr
  écisé\nBPA estimé : 3.48\nCA estimé : 140.51 Md\nHoraire exact du call
-  : voir la page Investor Relations.
+  : voir la page Investor Relations.\nLe compte rendu chiffré s'ajoutera i
+ ci après la publication.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:META-2027-Q1@earnings-ics
-DTSTAMP:20261031T054626Z
+DTSTAMP:20261031T090903Z
+LAST-MODIFIED:20261031T090903Z
 DTSTART;VALUE=DATE:20270427
 DTEND;VALUE=DATE:20270428
 SUMMARY:META – résultats T1 2027 (horaire non précisé)
 DESCRIPTION:Société : META\nPériode : T1 2027\nMoment : horaire non pré
  cisé\nBPA estimé : 7.98\nCA estimé : 69.57 Md\nHoraire exact du call : 
- voir la page Investor Relations.
+ voir la page Investor Relations.\nLe compte rendu chiffré s'ajoutera ici 
+ après la publication.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:MSFT-2027-Q3@earnings-ics
-DTSTAMP:20261031T054626Z
+DTSTAMP:20261031T090903Z
+LAST-MODIFIED:20261031T090903Z
 DTSTART;VALUE=DATE:20270427
 DTEND;VALUE=DATE:20270428
 SUMMARY:MSFT – résultats T3 2027 (horaire non précisé)
 DESCRIPTION:Société : MSFT\nPériode : T3 2027\nMoment : horaire non pré
  cisé\nBPA estimé : 5.00\nCA estimé : 100.00 Md\nHoraire exact du call :
-  voir la page Investor Relations.
+  voir la page Investor Relations.\nLe compte rendu chiffré s'ajoutera ici
+  après la publication.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:AAPL-2027-Q2@earnings-ics
-DTSTAMP:20261031T054626Z
+DTSTAMP:20261031T090903Z
+LAST-MODIFIED:20261031T090903Z
 DTSTART;VALUE=DATE:20270428
 DTEND;VALUE=DATE:20270429
 SUMMARY:AAPL – résultats T2 2027 (horaire non précisé)
 DESCRIPTION:Société : AAPL\nPériode : T2 2027\nMoment : horaire non pré
  cisé\nBPA estimé : 2.29\nCA estimé : 127.10 Md\nHoraire exact du call :
-  voir la page Investor Relations.
+  voir la page Investor Relations.\nLe compte rendu chiffré s'ajoutera ici
+  après la publication.
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

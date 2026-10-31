@@ -1,0 +1,222 @@
+{
+ "AAPL|2026|Q4": {
+  "date": "2026-11-02",
+  "epsActual": null,
+  "epsEstimate": 2.0221,
+  "hour": "amc",
+  "quarter": 4,
+  "revenueActual": null,
+  "revenueEstimate": 115496910249,
+  "symbol": "AAPL",
+  "year": 2026
+ },
+ "AAPL|2027|Q1": {
+  "date": "2027-01-27",
+  "epsActual": null,
+  "epsEstimate": 2.9468,
+  "hour": "",
+  "quarter": 1,
+  "revenueActual": null,
+  "revenueEstimate": 155961268080,
+  "symbol": "AAPL",
+  "year": 2027
+ },
+ "AAPL|2027|Q2": {
+  "date": "2027-04-28",
+  "epsActual": null,
+  "epsEstimate": 2.2866,
+  "hour": "",
+  "quarter": 2,
+  "revenueActual": null,
+  "revenueEstimate": 127095153972,
+  "symbol": "AAPL",
+  "year": 2027
+ },
+ "AMZN|2026|Q3": {
+  "date": "2026-10-29",
+  "epsActual": 1.89,
+  "epsEstimate": 2.001,
+  "hour": "amc",
+  "quarter": 3,
+  "revenueActual": 201944000000,
+  "revenueEstimate": 206288109339,
+  "symbol": "AMZN",
+  "year": 2026
+ },
+ "AMZN|2026|Q4": {
+  "date": "2027-02-03",
+  "epsActual": null,
+  "epsEstimate": 2.5047,
+  "hour": "amc",
+  "quarter": 4,
+  "revenueActual": null,
+  "revenueEstimate": 249463341131,
+  "symbol": "AMZN",
+  "year": 2026
+ },
+ "AMZN|2027|Q1": {
+  "date": "2027-04-27",
+  "epsActual": null,
+  "epsEstimate": 2.377,
+  "hour": "",
+  "quarter": 1,
+  "revenueActual": null,
+  "revenueEstimate": 212197440762,
+  "symbol": "AMZN",
+  "year": 2027
+ },
+ "GOOGL|2026|Q3": {
+  "date": "2026-10-28",
+  "epsActual": 2.12,
+  "epsEstimate": 3.1095,
+  "hour": "amc",
+  "quarter": 3,
+  "revenueActual": 111211000000,
+  "revenueEstimate": 132020419167,
+  "symbol": "GOOGL",
+  "year": 2026
+ },
+ "GOOGL|2026|Q4": {
+  "date": "2027-02-02",
+  "epsActual": null,
+  "epsEstimate": 3.4592,
+  "hour": "amc",
+  "quarter": 4,
+  "revenueActual": null,
+  "revenueEstimate": 147320298830,
+  "symbol": "GOOGL",
+  "year": 2026
+ },
+ "GOOGL|2027|Q1": {
+  "date": "2027-04-27",
+  "epsActual": null,
+  "epsEstimate": 3.4764,
+  "hour": "",
+  "quarter": 1,
+  "revenueActual": null,
+  "revenueEstimate": 140513976801,
+  "symbol": "GOOGL",
+  "year": 2027
+ },
+ "JPM|2026|Q3": {
+  "date": "2026-10-13",
+  "epsActual": 5.57,
+  "epsEstimate": 5.958,
+  "hour": "bmo",
+  "quarter": 3,
+  "revenueActual": 50907000000,
+  "revenueEstimate": 51729296017,
+  "symbol": "JPM",
+  "year": 2026
+ },
+ "JPM|2026|Q4": {
+  "date": "2027-01-14",
+  "epsActual": null,
+  "epsEstimate": 5.9226,
+  "hour": "amc",
+  "quarter": 4,
+  "revenueActual": null,
+  "revenueEstimate": 51785207496,
+  "symbol": "JPM",
+  "year": 2026
+ },
+ "JPM|2027|Q1": {
+  "date": "2027-04-12",
+  "epsActual": null,
+  "epsEstimate": 6.3214,
+  "hour": "",
+  "quarter": 1,
+  "revenueActual": null,
+  "revenueEstimate": 54345847831,
+  "symbol": "JPM",
+  "year": 2027
+ },
+ "META|2026|Q3": {
+  "date": "2026-10-21",
+  "epsActual": 7.4,
+  "epsEstimate": 5.7889,
+  "hour": "amc",
+  "quarter": 3,
+  "revenueActual": 64601000000,
+  "revenueEstimate": 64635778699,
+  "symbol": "META",
+  "year": 2026
+ },
+ "META|2026|Q4": {
+  "date": "2027-01-26",
+  "epsActual": null,
+  "epsEstimate": 8.5226,
+  "hour": "amc",
+  "quarter": 4,
+  "revenueActual": null,
+  "revenueEstimate": 76052616208,
+  "symbol": "META",
+  "year": 2026
+ },
+ "META|2027|Q1": {
+  "date": "2027-04-27",
+  "epsActual": null,
+  "epsEstimate": 7.9842,
+  "hour": "",
+  "quarter": 1,
+  "revenueActual": null,
+  "revenueEstimate": 69569996049,
+  "symbol": "META",
+  "year": 2027
+ },
+ "MSFT|2027|Q1": {
+  "date": "2026-10-28",
+  "epsActual": 4.89,
+  "epsEstimate": 4.8165,
+  "hour": "amc",
+  "quarter": 1,
+  "revenueActual": 92279000000,
+  "revenueEstimate": 92493412748,
+  "symbol": "MSFT",
+  "year": 2027
+ },
+ "MSFT|2027|Q2": {
+  "date": "2027-01-26",
+  "epsActual": null,
+  "epsEstimate": 4.9359,
+  "hour": "",
+  "quarter": 2,
+  "revenueActual": null,
+  "revenueEstimate": 97505441308,
+  "symbol": "MSFT",
+  "year": 2027
+ },
+ "MSFT|2027|Q3": {
+  "date": "2027-04-27",
+  "epsActual": null,
+  "epsEstimate": 4.9996,
+  "hour": "",
+  "quarter": 3,
+  "revenueActual": null,
+  "revenueEstimate": 99996571049,
+  "symbol": "MSFT",
+  "year": 2027
+ },
+ "NVDA|2027|Q3": {
+  "date": "2026-11-17",
+  "epsActual": null,
+  "epsEstimate": 2.5263,
+  "hour": "amc",
+  "quarter": 3,
+  "revenueActual": null,
+  "revenueEstimate": 111356225808,
+  "symbol": "NVDA",
+  "year": 2027
+ },
+ "NVDA|2027|Q4": {
+  "date": "2027-02-23",
+  "epsActual": null,
+  "epsEstimate": 2.8039,
+  "hour": "amc",
+  "quarter": 4,
+  "revenueActual": null,
+  "revenueEstimate": 127442272182,
+  "symbol": "NVDA",
+  "year": 2027
+ }
+}
