@@ -1,6 +1,6 @@
 # Calendrier earnings → Proton Calendar
 
-Génère chaque jour un fichier `docs/earnings.ics` avec les dates de publication de résultats de la watchlist, auquel Proton Calendar s'abonne.
+Génère chaque jour un fichier `docs/earnings.ics` avec les dates de publication de résultats de votre watchlist, auquel Proton Calendar s'abonne.
 
 ## Mise en place (≈ 10 min)
 
@@ -25,3 +25,4 @@ Génère chaque jour un fichier `docs/earnings.ics` avec les dates de publicatio
 - Couverture : surtout les actions US. Pour un titre européen, essayez le format Finnhub (ex. `MC.PA`), sans garantie.
 - Proton actualise les abonnements environ toutes les 16 h : un changement de date peut mettre jusqu'à une journée à apparaître.
 - Pour ajouter ou retirer une valeur : modifiez `tickers.txt` sur GitHub, le flux se met à jour au prochain passage.
+
