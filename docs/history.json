@@ -1,11 +1,11 @@
 {
  "AAPL|2026|Q4": {
   "date": "2026-11-02",
-  "epsActual": null,
+  "epsActual": 2.05,
   "epsEstimate": 2.0267,
   "hour": "amc",
   "quarter": 4,
-  "revenueActual": null,
+  "revenueActual": 114477000000,
   "revenueEstimate": 115660327009,
   "symbol": "AAPL",
   "year": 2026
