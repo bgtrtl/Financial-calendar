@@ -218,5 +218,16 @@
   "revenueEstimate": 127708752424,
   "symbol": "NVDA",
   "year": 2027
+ },
+ "NVDA|2028|Q1": {
+  "date": "2027-05-18",
+  "epsActual": null,
+  "epsEstimate": 3.2559,
+  "hour": "",
+  "quarter": 1,
+  "revenueActual": null,
+  "revenueEstimate": 148845528749,
+  "symbol": "NVDA",
+  "year": 2028
  }
 }
